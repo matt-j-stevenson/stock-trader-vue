@@ -1,7 +1,7 @@
 # Stock Trader App - Vue.js
 
-### I've built this application to simulate a simplistic stock trading mechanism to Buy, Sell, Save&Load Data from Firebase, database management.
+#### This application is an exercise I've undertaken to simulate a simple Stock Trading mechanism with Vue.js.
 
-### The App has been built with Vue.js, Vue Router and Vuex, with the assistance of Firebase for the db.
+#### The App has been built with Vue.js, Vue Router and Vuex, with the assistance of Firebase for the db.
 
-![Stock Trader Image - Initial](public/stock-trader-img)
+[![stock-trader-img.png](https://i.postimg.cc/jjtxmWyr/stock-trader-img.png)](https://postimg.cc/sMHCZgnn)
