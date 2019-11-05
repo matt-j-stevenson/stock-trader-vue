@@ -1,24 +1,7 @@
-# stock-trader
+# Stock Trader App - Vue.js
 
-## Project setup
-```
-yarn install
-```
+### I've built this application to simulate a simplistic stock trading mechanism to Buy, Sell, Save&Load Data from Firebase, database management.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### The App has been built with Vue.js, Vue Router and Vuex, with the assistance of Firebase for the db.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Stock Trader Image - Initial](public/stock-trader-img)
