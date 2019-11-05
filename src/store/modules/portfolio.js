@@ -4,7 +4,7 @@ const state = {
 };
 
 const mutations = {
-  BUY_STOCK(state, { stockId, quantity }) {
+  BUY_STOCK(state, { stockId, quantity, stockPrice }) {
     const record = state.stocks.find(element => element.id == stockId);
     if (record) {
       record.quantity + quantity;
@@ -14,8 +14,9 @@ const mutations = {
         quantity: quantity
       });
     }
+    state.funds -= stockPrice * quantity;
   },
-  SELL_STOCK(state, { stockId, stockPrice, quantity }) {
+  SELL_STOCK(state, { stockId, quantity, stockPrice }) {
     const record = state.stocks.find(element => element.id == stockId);
     if (record.quantity > quantity) {
       record.quantity -= quantity;
