@@ -25,3 +25,7 @@
 ##### The Sell Stocks Screen - Choose which stocks that you've bought, you'd like to sell
 
 [![Screenshot-2019-11-05-at-3-44-20-pm.png](https://i.postimg.cc/bJw5x9bd/Screenshot-2019-11-05-at-3-44-20-pm.png)](https://postimg.cc/7CjXD7Ky)
+
+#### Adding Funds, filter for currency. Automatically recalculating/randomising Stock Prices with 'End Day' button
+
+[![Screenshot-2019-11-06-at-9-07-13-am.png](https://i.postimg.cc/gjVnnLbp/Screenshot-2019-11-06-at-9-07-13-am.png)](https://postimg.cc/SYKyPsK1)
