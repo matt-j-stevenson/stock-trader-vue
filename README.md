@@ -22,8 +22,10 @@
 
 [![Screenshot-2019-11-06-at-2-48-37-pm.png](https://i.postimg.cc/kX8DLsQY/Screenshot-2019-11-06-at-2-48-37-pm.png)](https://postimg.cc/jLxs7zky)
 
-###### If the user attempts to buy a stock out of their price range they will be warned of such, and the Buy button will be disabled.
+###### If the user attempts to buy a stock out of their price range they will be warned of such, and the 'Buy' button will be disabled - instead an 'Insufficient Funds' button prompted.
 
 [![Screenshot-2019-11-06-at-2-49-58-pm.png](https://i.postimg.cc/RZKfQ9pF/Screenshot-2019-11-06-at-2-49-58-pm.png)](https://postimg.cc/TK2pT86M)
 
+###### When the user buys stocks in a company they can navigate to the 'Your Stocks' page and view each stock, along with quantity.
 
+[![Screenshot-2019-11-06-at-2-52-53-pm.png](https://i.postimg.cc/fWFQYh01/Screenshot-2019-11-06-at-2-52-53-pm.png)](https://postimg.cc/rzSHL3j9)
