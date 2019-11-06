@@ -33,3 +33,7 @@
 ##### Making profit by skipping days, viewing stock prices go up - and selling at the right moment
 
 [![Screenshot-2019-11-06-at-9-11-50-am.png](https://i.postimg.cc/4d5FQBgF/Screenshot-2019-11-06-at-9-11-50-am.png)](https://postimg.cc/zbyjJw3n)
+
+##### Adding keyframe animations for fading/sliding in panels / Dynamically triggering dropdown w/ binded class
+
+[![Screenshot-2019-11-06-at-9-21-02-am.png](https://i.postimg.cc/pVsbzYR6/Screenshot-2019-11-06-at-9-21-02-am.png)](https://postimg.cc/hhQ5qmJL)
