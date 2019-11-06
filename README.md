@@ -2,6 +2,9 @@
 
 [Vue.js Docs](https://vuejs.org/v2/guide/)
 
+#### The Live App:
+[Stock Trader App](https://zealous-shirley-75fbb2.netlify.com/)
+
 ### Run:
 
 ```javascript
@@ -11,6 +14,7 @@
     yarn serve
     npm run dev
 ```
+
 
 #### This application is an exercise I've undertaken to simulate a simple Stock Trading mechanism with Vue.js. The App has been built with Vue.js, Vue Router and Vuex, with the assistance of Firebase for the Database management. Here, we've used Bootstrap (edited slightly) to ease our styling pressures to concentrate more heavily on the fundamentals of Vue and Vuex.
 
