@@ -4,7 +4,7 @@
       <div class="panel-heading">
         <h3 class="panel-title">
           {{ stock.name }}
-          <small>(Price: {{ stock.price }} | Quantity: {{ stock.quantity }})</small>
+          <p class="price pull-right">{{ stock.price | currency }} | Owned: {{ stock.quantity }}</p>
         </h3>
       </div>
       <div class="panel-body">
@@ -21,7 +21,7 @@
         <div class="pull-right">
           <button
             @click="sellStock"
-            class="btn btn-info"
+            class="btn"
             :disabled="insufficientQuantity || quantity <= 0"
           >{{insufficientQuantity ? 'Not Enough Stock' : 'Sell'}}</button>
         </div>
@@ -63,5 +63,13 @@ export default {
 <style scoped>
 .danger {
   border: 1px solid lightcoral;
+}
+.panel-heading,
+.btn {
+  background-color: #34495e;
+  color: #fff;
+}
+.price {
+  font-size: 14px;
 }
 </style>

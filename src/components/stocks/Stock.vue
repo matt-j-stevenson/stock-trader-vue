@@ -1,10 +1,10 @@
 <template>
   <div class="col-sm-6 col-md-4">
-    <div class="panel panel-success">
+    <div class="panel panel-default">
       <div class="panel-heading">
         <h3 class="panel-title">
           {{ stock.name }}
-          <small>(Price: {{ stock.price }})</small>
+          <p class="price pull-right">{{ stock.price | currency }}</p>
         </h3>
       </div>
       <div class="panel-body">
@@ -21,7 +21,7 @@
         <div class="pull-right">
           <button
             @click="buyStock"
-            class="btn btn-success"
+            class="btn"
             :disabled="insufficientFunds || quantity <= 0"
           >{{ insufficientFunds ? 'Insufficient Funds' : 'Buy' }}</button>
         </div>
@@ -62,6 +62,13 @@ export default {
 
 <style scoped>
 .danger {
-  border: 1px solid lightcoral;
+  border: 2px solid lightcoral;
+}
+.panel-heading, .btn {
+  background-color: #399e79;
+  color: #fff;
+}
+.price {
+  font-size: 14px;
 }
 </style>
