@@ -18,7 +18,7 @@
 
 [![Screenshot-2019-11-06-at-2-44-42-pm.png](https://i.postimg.cc/1tNqWQJ4/Screenshot-2019-11-06-at-2-44-42-pm.png)](https://postimg.cc/k6qG4krd)
 
-###### The 'Market Summary' sections outlines 8 companies and their respective stock prices. The user must select from these carefully as they only begin trading with £1,000.
+###### The 'Market Summary' section outlines 8 companies and their respective stock prices. The user must select from these carefully as they only begin trading with £1,000.
 
 [![Screenshot-2019-11-06-at-2-48-37-pm.png](https://i.postimg.cc/kX8DLsQY/Screenshot-2019-11-06-at-2-48-37-pm.png)](https://postimg.cc/jLxs7zky)
 
@@ -50,4 +50,8 @@
 
 [![Screenshot-2019-11-06-at-3-06-02-pm.png](https://i.postimg.cc/wTGckg58/Screenshot-2019-11-06-at-3-06-02-pm.png)](https://postimg.cc/KRtMGXsJ)
 
+###### In the case the user makes a mistake, they can chose to revert back to a their Saved data by clicking 'Load Data', to pull down the data they posted to the database by using 'Save Data' originally.
 
+[![Screenshot-2019-11-06-at-3-21-11-pm.png](https://i.postimg.cc/CKfPWJH1/Screenshot-2019-11-06-at-3-21-11-pm.png)](https://postimg.cc/3yYFGXq5)
+
+###### The application is obviously very basic, omitting a real algoritm to calculate stocks - sometimes leading to stock prices going down the whole way to £1 in which they are unable to rise again. It features multiple bugs and is styled with basis Bootstrap 3 HTML components, but has been a good exercise for using Vue, VueRouter and Vuex for managing state and manipulating the store along with using VueResource to access a database, both putting and getting.
