@@ -1,9 +1,18 @@
 # Stock Trader App - Vue.js
 
-##### This application is an exercise I've undertaken to simulate a simple Stock Trading mechanism with Vue.js.
-##### The App has been built with Vue.js, Vue Router and Vuex, with the assistance of Firebase for the db.
-##### Here, we've used Bootstrap to ease our styling pressures to concentrate more heavily on the fundamentals of Vue and Vuex
+[Vue.js Docs](https://vuejs.org/v2/guide/)
 
+### Run:
+
+```javascript
+    brew install yarn
+    npm install npm@latest -g
+
+    yarn serve
+    npm run dev
+```
+
+##### This application is an exercise I've undertaken to simulate a simple Stock Trading mechanism with Vue.js. The App has been built with Vue.js, Vue Router and Vuex, with the assistance of Firebase for the db. Here, we've used Bootstrap to ease our styling pressures to concentrate more heavily on the fundamentals of Vue and Vuex
 
 ##### The Home Screen - View your Funds
 
