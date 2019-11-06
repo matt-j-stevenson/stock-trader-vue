@@ -37,3 +37,7 @@
 ##### Adding keyframe animations for fading/sliding in panels / Dynamically triggering dropdown w/ binded class
 
 [![Screenshot-2019-11-06-at-9-21-02-am.png](https://i.postimg.cc/pVsbzYR6/Screenshot-2019-11-06-at-9-21-02-am.png)](https://postimg.cc/hhQ5qmJL)
+
+##### Using VueResource to push(put) data from the stock trader into RealTime Firebase db, for saving data on a given day
+
+[![Screenshot-2019-11-06-at-9-52-27-am.png](https://i.postimg.cc/RVVRJyTj/Screenshot-2019-11-06-at-9-52-27-am.png)](https://postimg.cc/py48g04Z)
