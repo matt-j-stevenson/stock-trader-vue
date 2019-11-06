@@ -26,6 +26,10 @@
 
 [![Screenshot-2019-11-05-at-3-44-20-pm.png](https://i.postimg.cc/bJw5x9bd/Screenshot-2019-11-05-at-3-44-20-pm.png)](https://postimg.cc/7CjXD7Ky)
 
-#### Adding Funds, filter for currency. Automatically recalculating/randomising Stock Prices with 'End Day' button
+##### Adding Funds, filter for currency. Automatically recalculating/randomising Stock Prices with 'End Day' button
 
 [![Screenshot-2019-11-06-at-9-07-13-am.png](https://i.postimg.cc/gjVnnLbp/Screenshot-2019-11-06-at-9-07-13-am.png)](https://postimg.cc/SYKyPsK1)
+
+##### Making profit by skipping days, viewing stock prices go up - and selling at the right moment
+
+[![Screenshot-2019-11-06-at-9-11-50-am.png](https://i.postimg.cc/4d5FQBgF/Screenshot-2019-11-06-at-9-11-50-am.png)](https://postimg.cc/zbyjJw3n)
