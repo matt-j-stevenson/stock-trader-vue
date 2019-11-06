@@ -62,7 +62,7 @@ export default {
 
 <style scoped>
 .danger {
-  border: 1px solid lightcoral;
+  border: 2px solid lightcoral;
 }
 .panel-heading,
 .btn {

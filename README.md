@@ -29,3 +29,25 @@
 ###### When the user buys stocks in a company they can navigate to the 'Your Stocks' page and view each stock, along with quantity.
 
 [![Screenshot-2019-11-06-at-2-52-53-pm.png](https://i.postimg.cc/fWFQYh01/Screenshot-2019-11-06-at-2-52-53-pm.png)](https://postimg.cc/rzSHL3j9)
+
+###### If the user attempts to sell more stock than they own, the 'Sell' button will be disabled.
+
+[![Screenshot-2019-11-06-at-3-08-16-pm.png](https://i.postimg.cc/m2f8xbzY/Screenshot-2019-11-06-at-3-08-16-pm.png)](https://postimg.cc/0rnpD1Cj)
+
+###### Clicking 'End Day' will cycle through each day, with stock prices fluctuating as time passes. The user may incur loses as a result or make profits on their purchased stocks (in this case, monies were lost).
+
+[![Screenshot-2019-11-06-at-2-56-55-pm.png](https://i.postimg.cc/RCkdKMv3/Screenshot-2019-11-06-at-2-56-55-pm.png)](https://postimg.cc/ThcnXvLG)
+
+###### When cycling days and stock prices of owned stocks do go up, the user can offload them to make profit (here, selling all 3 stocks of Facebook for close to double what was paid).
+
+[![Screenshot-2019-11-06-at-3-01-47-pm.png](https://i.postimg.cc/W4rVXNQd/Screenshot-2019-11-06-at-3-01-47-pm.png)](https://postimg.cc/CZF9KgM0)
+
+###### From here, the user can see clearly that their sold stock has been sold (gone from 'Your Stocks'), and they have mate clear profit (£88).
+
+[![Screenshot-2019-11-06-at-3-04-48-pm.png](https://i.postimg.cc/MTFhShkC/Screenshot-2019-11-06-at-3-04-48-pm.png)](https://postimg.cc/DJ1CQpw6)
+
+###### The user can then use the 'Save | Load' dropdown to 'Save' their data. This data is saved to a simple back-end database on Google's Firebase.
+
+[![Screenshot-2019-11-06-at-3-06-02-pm.png](https://i.postimg.cc/wTGckg58/Screenshot-2019-11-06-at-3-06-02-pm.png)](https://postimg.cc/KRtMGXsJ)
+
+
