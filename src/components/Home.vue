@@ -1,10 +1,11 @@
 <template>
   <div>
-    <h1>Trade or View your Portfolio</h1>
-    <h6>You may Save & Load your Data</h6>
-    <h6>Click on 'End Day' to a New Day</h6>
+    <h1>The Vue.js Stock Trader</h1>
     <hr />
-    <p>Your Funds: {{funds}}</p>
+    <h4>You may save your data using the 'Save' button, located in the Save & Load dropdown in the navigation bar.</h4>
+    <h5>(Click on 'End Day' to a start a new day of trading)</h5>
+    <hr />
+    <h3>Current Funds: {{funds | currency }}</h3>
   </div>
 </template>
 
