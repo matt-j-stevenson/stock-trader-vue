@@ -54,4 +54,4 @@
 
 [![Screenshot-2019-11-06-at-3-21-11-pm.png](https://i.postimg.cc/CKfPWJH1/Screenshot-2019-11-06-at-3-21-11-pm.png)](https://postimg.cc/3yYFGXq5)
 
-###### The application is obviously very basic, omitting a real algoritm to calculate stocks - sometimes leading to stock prices going down the whole way to £1 in which they are unable to rise again. It features multiple bugs and is styled with basis Bootstrap 3 HTML components, but has been a good exercise for using Vue, VueRouter and Vuex for managing state and manipulating the store along with using VueResource to access a database, both putting and getting.
+###### The application is obviously very basic, omitting a real algoritm to calculate stocks - sometimes leading to stock prices going down the whole way to £1 in which they are unable to rise again. It features multiple bugs and is styled with basic Bootstrap 3 HTML components, but has been a good exercise for using Vue, VueRouter and Vuex for managing state and manipulating the store along with using VueResource to access a database, both putting and getting.
